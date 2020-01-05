@@ -1,0 +1,52 @@
+* {
+  font-family: fantasy;
+}
+
+.centerer {
+  text-align: center;
+  overflow: auto;
+  margin-top: 100px;
+  
+}
+
+.App {
+  display: inline-block;
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(238, 180, 253);
+  max-width: 100%;
+  max-height: 100%;
+  width: 600px;
+  overflow: auto;
+}
+
+body {
+  text-decoration: none;
+}
+
+a {
+  color: chartreuse;
+}
+
+.thing {
+  background-color: rgb(255, 255, 255);
+  /* padding: 10px; */
+  text-align: center;  
+  /* width: max-content; */
+}
+
+.tableHead {
+  background-color: cornflowerblue;
+  color: bisque;
+}
+
+.headHeader {
+  color: blue;
+  padding: 10px;
+}
+
+/* .tableTheme {
+  table-layout: fixed;
+  width: 100%;
+} */
